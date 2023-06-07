@@ -9,7 +9,7 @@
 
 ![profile visit](https://komarev.com/ghpvc/?username=0xashik)
 </div>
-<p align="left"> <a href="https://twitter.com/0xashik" target="blank"><img src="https://img.shields.io/twitter/follow/0xashik?logo=twitter&style=for-the-badge" alt="0xashik" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dev_smashik" target="blank"><img src="https://img.shields.io/twitter/follow/0xashik?logo=twitter&style=for-the-badge" alt="0xashik" /></a> </p>
 <br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
