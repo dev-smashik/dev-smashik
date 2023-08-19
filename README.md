@@ -1,25 +1,45 @@
-<h1 align="center">Hi , I'm Sheikh Muhammad Ashik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Nishat Tasnim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center" justyfi="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;University+of+Asis+Pacific;Competitive+Programmer+at+codechef;Capture+The+Flag+player;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=-----+University+of+Asis+Pacific+-----;------+Competitive+Programmer+------;"></a>
 </p>
+👋 Greetings, fellow coders and curious minds! I'm Nishat Tasnim – a multifaceted tech enthusiast with a flair for unleashing creativity in code! 🚀
 <br>
-<h2 align="left">👦 Github Stats:</h2>
+<br>
+💻 Armed with a toolkit that includes C, C++, Java, and Python, I'm your go-to person for crafting elegant solutions that dance through lines of code. From Machine Learning wizardry to the art of Scientific Content Writing, I'm your bridge between data and insights. 📊📝
+<br>
+<br>
+🎨 With Graphics Design as my trusty sidekick, I bring life to pixels and pixels to life, creating visual symphonies that captivate the eyes and the imagination. My PowerPoint presentations? They're more than slides – they're journeys! 🎉🎨
+<br>
+<br>
+🍕 When I'm not concocting code spells, you'll find me battling it out on Codechef or flexing my coding muscles on Codeforces. But my true passion lies in Research – I'm a curious explorer of the scientific realms, unearthing gems of knowledge that fuel my thirst for understanding. 🔍🔬
+<br>
+<br>
+📊 Datasets are my playground, and I'm the fearless adventurer who turns raw information into dazzling insights. Whether it's unraveling hidden patterns or sparking innovation, I'm in my element when data dances to my tune. 💃📊
+<br>
+<br>
+✨ So, join me on this exhilarating journey where coding meets creativity, where research kindles the flames of discovery, and where I weave spells with both logic and imagination. Together, let's create a symphony of innovation! 🎶🔥
+<br>
+<br>
+<h2 align="left">😸 Github Stats:</h2>
 
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=0xashik)
+![profile visit](https://komarev.com/ghpvc/?username=NishatTasnim01)
 </div>
+
+<!--
 <p align="left"> <a href="https://twitter.com/dev_smashik" target="blank"><img src="https://img.shields.io/twitter/follow/0xashik?logo=twitter&style=for-the-badge" alt="0xashik" /></a> </p>
+-->
+
 <br>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5ea076b847d1cc44d6d3a93361410ea769f5b0e451bae76e33446eac6747b7dc/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323439383730302f616e612d642d736d616c6c2e676966">
 
 
-## :sassy_man: Who am I? (Breifly):
-- :school: I am a `Student` at Department of Computer Science and Engineering at University of Asia Pacific
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces` and `Codechef`
-- :computer: `Capture the flag` player
-- :nerd_face: Always `learning new things`
+## :sassy_woman: Who am I? (Breifly):
+- 🏫: I am a `Student` at Department of Computer Science and Engineering at University of Asia Pacific
+- 👩‍🔬: I'm very passionate about `Machine Learning` and `Deep Learning`
+- 💻: I am a competitive programmer 
+- :sassy_woman: Always `learning new things`
 
 <br>
 
