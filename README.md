@@ -43,7 +43,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <br> -->
 
 
-## 👀 My Competitive Programming Profiles
+## 🔥: My Competitive Programming and Research Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/dev_smashik"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
