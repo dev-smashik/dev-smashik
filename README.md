@@ -2,26 +2,19 @@
 <p align="center" justyfi="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=-----+University+of+Asis+Pacific+-----;------+Competitive+Programmer+------;"></a>
 </p>
-👋 Greetings, fellow coders and curious minds! I'm Nishat Tasnim – a multifaceted tech enthusiast with a flair for unleashing creativity in code! 🚀
+👋 Hello there! I'm Nishat Tasnim, a curious explorer of the coding cosmos 🌌. While I may not wield languages like C, C++, Java, and Python with the mastery of a seasoned pro, I thrive on the thrill of creation and innovation. 🚀
 <br>
 <br>
-💻 Armed with a toolkit that includes C, C++, Java, and Python, I'm your go-to person for crafting elegant solutions that dance through lines of code. From Machine Learning wizardry to the art of Scientific Content Writing, I'm your bridge between data and insights. 📊📝
+My digital palette includes dabbling in Machine Learning 🤖, spinning words into scientific gold ✍️, crafting visual wonders 🎨, and sculpting ideas into captivating PowerPoint presentations 💼. Catch me occasionally cracking coding conundrums on Codechef and Codeforces 💻, where challenges are my playground.
 <br>
 <br>
-🎨 With Graphics Design as my trusty sidekick, I bring life to pixels and pixels to life, creating visual symphonies that captivate the eyes and the imagination. My PowerPoint presentations? They're more than slides – they're journeys! 🎉🎨
+But here's the twist: I'm not just about codes and algorithms. My heart beats for the enigmatic realm of research 📚. Unveiling the mysteries of the universe, one data point at a time, gives me an electrifying high. 🌟 Datasets are my playmates, and I believe that in every spreadsheet lies a story waiting to be told.
 <br>
 <br>
-🍕 When I'm not concocting code spells, you'll find me battling it out on Codechef or flexing my coding muscles on Codeforces. But my true passion lies in Research – I'm a curious explorer of the scientific realms, unearthing gems of knowledge that fuel my thirst for understanding. 🔍🔬
-<br>
-<br>
-📊 Datasets are my playground, and I'm the fearless adventurer who turns raw information into dazzling insights. Whether it's unraveling hidden patterns or sparking innovation, I'm in my element when data dances to my tune. 💃📊
-<br>
-<br>
-✨ So, join me on this exhilarating journey where coding meets creativity, where research kindles the flames of discovery, and where I weave spells with both logic and imagination. Together, let's create a symphony of innovation! 🎶🔥
-<br>
-<br>
+Got a passion for the unconventional? Let's connect and embark on a journey of creativity, exploration, and mind-bending ideas. Feel free to drop me a line at nishatt315@gmail.com 📬. Together, let's transform the ordinary into the extraordinary! 🌈🔍
 <h2 align="left">😸 Github Stats:</h2>
-
+<br>
+<br>
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=NishatTasnim01)
