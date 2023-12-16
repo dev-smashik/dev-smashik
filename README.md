@@ -92,27 +92,46 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 <br>
 <br>
 
+<!-- Skills -->
+
 <div>
-  <h2>Skills</h2>
+  <h2>My Skills</h2>
   
 ```json
 {
-   "Proficient": ["Python", "Java", "C", "C++", "SQL", "HTML", "CSS", "JavaScript"],
-   "Familiar with": ["C++", "Python"],
-   "Database": ["MySql"],
-   "Operating System": ["Windows", "Linux - Kali Linux"],
-   "Core Skills": ["Malware Analysis", "Open Source Intelligence(OSINT)", "Cryptography", "Memory Forensics", "Digital Forensics", "Metasploit Framework", "Competitive Programming and Problem Solving"],
-   "Design Skills": ["User Interface/User Experience Design - Android/IOS Application, Web/Desktop Application ", "Graphics Design - Logo, Banner, Poster, Icon"],
-   "Web development": ["Wordpress Theme Development & Customization"],
+   "Proficient": ["Python", "Java", "C", "C++", "SQL", "HTML", "CSS", "JavaScript"]
+   "Familiar with": ["C++", "Python"]
+   "Operating System": ["Windows", "Linux - Kali Linux"]
+   "Core Skills": ["Malware Analysis", "Open Source Intelligence(OSINT)", "Cryptography", "Memory Forensics", "Digital Forensics", "Metasploit Framework", "Competitive Programming and Problem Solving"]
+   "Design Skills": ["User Interface/User Experience Design - Android/IOS Application, Web/Desktop Application ", "Graphics Design - Logo, Banner, Poster, Icon"]
+   "Web development": ["Wordpress Theme Development & Customization"]
    "Writing Skills": ["Science and Technology based at Mohakash Bigyan O Projukti and Independent Content Writer"]
    "Leadership Skills": ["Co-Founder and Admin at Mohakash Bigyan O Projukti - Science Education Learning Platform"]
 }
 ```
-  
 </div>
 
+<br>
+<br>
+
+<!-- Contribution Graph -->
+
+<div>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-smashik&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+</div>
+
+<br>
+<br>
+
+<div align = "Center">  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-smashik&show_icons=true&theme=algolia&card_width=350) &nbsp;&nbsp;&nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-smashik&theme=nightfox&card_width=400)](https://git.io/streak-stats)
 
 
+</div>
 
 
 
