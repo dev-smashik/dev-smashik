@@ -89,13 +89,26 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 </div>
 
 
+<br>
+<br>
 
-
-
-
-
-
-
+<div>
+  <h2>Skills</h2>
+  
+```json
+{
+   "Proficient": ["Python", "Java", "C", "C++", "SQL", "HTML", "CSS", "JavaScript"],
+   "Familiar with": ["C++", "Python"],
+   "Database": ["MySql"],
+   "Operating System": ["Windows", "Linux - Kali Linux"],
+   "Core Skills": ["Malware Analysis", "Open Source Intelligence(OSINT)", "Cryptography", "Memory Forensics", "Digital Forensics", "Metasploit Framework", "Competitive Programming and Problem Solving"],
+   "Design Skills": ["User Interface/User Experience Design - Android/IOS Application, Web/Desktop Application ", "Graphics Design - Logo, Banner, Poster, Icon"],
+   "Web development": ["Wordpress Theme Development & Customization"],
+   "Leadership Skills": ["Co-Founder and Admin at Mohakash Bigyan O Projukti - Science Education Learning Platform"]
+}
+```
+  
+</div>
 
 
 
