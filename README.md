@@ -3,9 +3,16 @@
   <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Cover-PNG.png" alt="Cover">
 </p>
 
+<!-- <div align = "center">
+  
+   ![](https://komarev.com/ghpvc/?username=dev-smashik&style=for-the-badge)
+</div>
+-->
+
 <!-- About Me -->
 <div>
-<h2>About Me</h2>
+  
+## About Me  &nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=dev-smashik&style=flat)
 <p align="justify">
 Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student at Asia Pacific University. I'm proficient in competitive programming, UI/UX, and Graphics design, as well as a skilled Capture the Flag player and content writer. I thrive at building collaborative situations because of my leadership characteristics. My programming skills include C/C++, Python, SQL, and Java. As a lifelong student and tech lover, I'm committed to remaining up to date on the latest developments, making innovation a constant in my journey.
 </p>
@@ -31,6 +38,9 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 
 <div>
 <h2>Here's where you can find me.</h2>
+
+<br>
+<br>
 
 <p align="center">
   <a href="https://codeforces.com/profile/dev.smashik">
@@ -62,11 +72,14 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 <br>
 <br>
 
-<!-- Contack Me -->
+<!-- Contact Me -->
 
 <div>
   
-<h2>Contact Me</h2>
+<h2>Contact With Me</h2>
+
+<br>
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smashik/">
