@@ -104,6 +104,7 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
    "Core Skills": ["Malware Analysis", "Open Source Intelligence(OSINT)", "Cryptography", "Memory Forensics", "Digital Forensics", "Metasploit Framework", "Competitive Programming and Problem Solving"],
    "Design Skills": ["User Interface/User Experience Design - Android/IOS Application, Web/Desktop Application ", "Graphics Design - Logo, Banner, Poster, Icon"],
    "Web development": ["Wordpress Theme Development & Customization"],
+   "Writing Skills": ["Science and Technology based at Mohakash Bigyan O Projukti and Independent Content Writer"]
    "Leadership Skills": ["Co-Founder and Admin at Mohakash Bigyan O Projukti - Science Education Learning Platform"]
 }
 ```
