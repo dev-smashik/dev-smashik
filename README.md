@@ -59,7 +59,6 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
   
 </div>
 
-
 <br>
 <br>
 
@@ -88,7 +87,6 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 
 </div>
 
-
 <br>
 <br>
 
@@ -115,16 +113,15 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 <br>
 
 <!-- Contribution Graph -->
-
 <div>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-smashik&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-
 </div>
 
 <br>
 <br>
 
+<!-- Github Status -->
 <div align = "center">  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-smashik&show_icons=true&theme=github_dark&card_width=300) &nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-smashik&theme=github-dark-blue&card_width=450)](https://git.io/streak-stats)
