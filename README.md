@@ -58,3 +58,29 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
   </a> &nbsp;&nbsp;&nbsp;
   
 </div>
+
+
+<br>
+<br>
+
+<div>
+<h2>Contact Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/smashik/">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/smashik716/">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Facebook.svg" alt="Facebook" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://wa.me/qr/MSOIS54MHKJPD1">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Whatsapp.svg" alt="Facebook" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://t.me/Ashik716">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Telegram.svg" alt="Facebook" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+  
+</div>
