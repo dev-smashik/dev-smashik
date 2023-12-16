@@ -18,7 +18,7 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 ## Who am I?
 - 👨🏻‍🎓: I am a `Student` at Department of `Computer Science and Engineering` at University of Asia Pacific.
 - 💻: I'm very passionate about `Programming`, `Malware Analysis`, `Bug-Hunting` , `UI/UX Design`, `Content Writting`.
-- 👨‍💻: I'm competitive programmer.
+- 👨‍💻: I'm `competitive programmer`.
 - 🚩: `CTF`(Capture the flag) Player.
 - 🎯: Always `learning new things`.
   
