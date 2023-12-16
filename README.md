@@ -125,10 +125,9 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 <br>
 <br>
 
-<div align = "justify">  
+<div align = "center">  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-smashik&show_icons=true&theme=algolia&card_width=350) &nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-smashik&theme=nightfox&card_width=400)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-smashik&show_icons=true&theme=algolia&card_width=300) &nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-smashik&theme=nightfox&card_width=400)](https://git.io/streak-stats)
 
 
 </div>
