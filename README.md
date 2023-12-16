@@ -10,3 +10,15 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 </p>
 </div>
 
+<br>
+<br>
+
+<img align="right" alt="Image" width="300" src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/320375457_3368164403502281_2643397632662040955_n.jpg">
+
+## Who am I?
+- 👨🏻‍🎓: I am a `Student` at Department of `Computer Science and Engineering` at University of Asia Pacific.
+- 💻: I'm very passionate about `Programming`, `Malware Analysis`, `Bug-Hunting` , `UI/UX Design`, `Content Writting`.
+- 👨‍💻: I'm competitive programmer.
+- 🚩: `CTF`(Capture the flag) Player.
+- 🎯: Always `learning new things`.
+  
