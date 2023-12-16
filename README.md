@@ -1,8 +1,9 @@
+<!-- Cover Image -->
 <p align="center">
   <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Cover-PNG.png" alt="Cover">
 </p>
 
-
+<!-- About Me -->
 <div>
 <h2>About Me</h2>
 <p align="justify">
@@ -13,6 +14,7 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 <br>
 <br>
 
+<!-- Who am I -->
 <img align="right" alt="Image" width="300" src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/320375457_3368164403502281_2643397632662040955_n.jpg">
 
 ## Who am I?
@@ -21,4 +23,38 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 - 👨‍💻: I'm `competitive programmer`.
 - 🚩: `CTF`(Capture the flag) Player.
 - 🎯: Always `learning new things`.
+
+<br>
+<br>
+
+<!-- Here's where you can find me. -->
+
+<div>
+<h2>Here's where you can find me.</h2>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/dev.smashik">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Codeforces.svg" alt="codecforces" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/dev_smashik">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Codechef.svg" alt="codechef" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/profile/dev_smashik">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/HackerRank.svg" alt="HackerRank" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
   
+  <a href="https://leetcode.com/dev_smashik/">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Leetcode.svg" alt="LeetCode" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://hackerone.com/0xsmashik?type=user">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/HackerOne.svg" alt="HackerOne" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.behance.net/smashik369">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Behance.svg" alt="Behance" style="vertical-align:top; margin:4px; color: blue;">
+  </a> &nbsp;&nbsp;&nbsp;
+  
+</div>
