@@ -7,7 +7,7 @@
 <div>
 <h2>About Me</h2>
 <p align="justify">
-Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student at Asia Pacific University. I'm proficient in competitive programming, UI/UX, and Graphics design, as well as a skilled Capture the Flag player and content writer. I thrive at building collaborative situations because of my leadership characteristics. My programming skills include C/C++, Python, SQL, and Java. As a lifelong student and tech lover, I'm committed to remaining up to date on the latest developments, making innovation a constant in my journey."
+Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student at Asia Pacific University. I'm proficient in competitive programming, UI/UX, and Graphics design, as well as a skilled Capture the Flag player and content writer. I thrive at building collaborative situations because of my leadership characteristics. My programming skills include C/C++, Python, SQL, and Java. As a lifelong student and tech lover, I'm committed to remaining up to date on the latest developments, making innovation a constant in my journey.
 </p>
 </div>
 
@@ -63,7 +63,10 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
 <br>
 <br>
 
+<!-- Contack Me -->
+
 <div>
+  
 <h2>Contact Me</h2>
 
 <p align="center">
@@ -76,11 +79,41 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
   </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://wa.me/qr/MSOIS54MHKJPD1">
-    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Whatsapp.svg" alt="Facebook" style="vertical-align:top; margin:4px; color: blue;">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Whatsapp.svg" alt="Whatsapp" style="vertical-align:top; margin:4px; color: blue;">
   </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://t.me/Ashik716">
-    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Telegram.svg" alt="Facebook" style="vertical-align:top; margin:4px; color: blue;">
+    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px; color: blue;">
   </a> &nbsp;&nbsp;&nbsp;
-  
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
