@@ -59,10 +59,6 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
     <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Leetcode.svg" alt="LeetCode" style="vertical-align:top; margin:4px; color: blue;">
   </a> &nbsp;&nbsp;&nbsp;
   
-  <a href="https://hackerone.com/0xsmashik?type=user">
-    <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/HackerOne.svg" alt="HackerOne" style="vertical-align:top; margin:4px; color: blue;">
-  </a> &nbsp;&nbsp;&nbsp;
-  
   <a href="https://www.behance.net/smashik369">
     <img src="https://github.com/dev-smashik/Github-Profile-Items/blob/main/Github/Behance.svg" alt="Behance" style="vertical-align:top; margin:4px; color: blue;">
   </a> &nbsp;&nbsp;&nbsp;
