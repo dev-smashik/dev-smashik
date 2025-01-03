@@ -106,7 +106,7 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
   
 ```json
 {
-   "Proficient": ["Python", "Java", "C", "C++", "SQL", "HTML", "CSS", "JavaScript", "Flutter"]
+   "Proficient": ["Python", "Java", "C", "C++", "SQL", "HTML", "CSS", "JavaScript", "Flutter", "UI/UX Design"]
    "Familiar with": ["C++", "Python", "Dart"]
    "Operating System": ["Windows", "Linux - Kali Linux"]
    "Core Skills": ["Malware Analysis", "Open Source Intelligence(OSINT)", "Cryptography", "Memory Forensics", "Digital Forensics", "Metasploit Framework", "Competitive Programming and Problem Solving"]
