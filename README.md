@@ -109,7 +109,7 @@ Greetings! I'm Sheikh Muhammad Ashik, a Computer Science and Engineering student
    "Proficient": ["Python", "Java", "C", "C++", "SQL", "HTML", "CSS", "JavaScript", "Flutter", "UI/UX Design"]
    "Familiar with": ["C++", "Python", "Dart"]
    "Operating System": ["Windows", "Linux - Kali Linux"]
-   "Core Skills": ["Malware Analysis", "Open Source Intelligence(OSINT)", "Cryptography", "Memory Forensics", "Digital Forensics", "Metasploit Framework", "Competitive Programming and Problem Solving"]
+   "Core Skills": ["Malware Analysis", "Open Source Intelligence(OSINT)", "Cryptography", "Memory Forensics", "Digital Forensics", "Metasploit Framework", "Competitive Programming and Problem Solving", "Machine Learning"]
    "Design Skills": ["User Interface/User Experience Design - Android/IOS Application, Web/Desktop Application ", "Graphics Design - Logo, Banner, Poster, Icon"]
    "Web development": ["Wordpress Theme Development & Customization"]
    "Writing Skills": ["Science and Technology based at Mohakash Bigyan O Projukti and Independent Content Writer"]
